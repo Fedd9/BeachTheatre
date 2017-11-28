@@ -46,8 +46,14 @@ public class FPSController : MonoBehaviour {
 
 	void Shoot(){
 		RaycastHit hit;
+		ShootableUI shot;
+
 		if (Physics.Raycast (eye.transform.position, eye.transform.forward, out hit, range)) {
 			Debug.Log (hit.transform.name);
+			shot = hit.collider.GetComponent<ShootableUI> ();
+			if (shot != null) {
+				shot.shotClick ();
+			}
 		}
 	}
 }
