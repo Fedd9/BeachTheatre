@@ -1,0 +1,53 @@
+/Users/federicodiveroli/DriveIn_SampleProject/Temp/bin/Debug/UnityEngine.dll
+/Users/federicodiveroli/DriveIn_SampleProject/Temp/bin/Debug/UnityEditor.dll
+/Users/federicodiveroli/DriveIn_SampleProject/Temp/bin/Debug/UnityEngine.UIAutomation.dll
+/Users/federicodiveroli/DriveIn_SampleProject/Temp/bin/Debug/UnityEngine.TestRunner.dll
+/Users/federicodiveroli/DriveIn_SampleProject/Temp/bin/Debug/nunit.framework.dll
+/Users/federicodiveroli/DriveIn_SampleProject/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/federicodiveroli/DriveIn_SampleProject/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/federicodiveroli/DriveIn_SampleProject/Temp/bin/Debug/UnityEngine.Timeline.dll
+/Users/federicodiveroli/DriveIn_SampleProject/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll
+/Users/federicodiveroli/DriveIn_SampleProject/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/federicodiveroli/DriveIn_SampleProject/Temp/bin/Debug/UnityEngine.SpatialTracking.dll
+/Users/federicodiveroli/DriveIn_SampleProject/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/federicodiveroli/DriveIn_SampleProject/Temp/bin/Debug/UnityEngine.Purchasing.dll
+/Users/federicodiveroli/DriveIn_SampleProject/Temp/bin/Debug/Unity.Cecil.dll
+/Users/federicodiveroli/DriveIn_SampleProject/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/federicodiveroli/DriveIn_SampleProject/Temp/bin/Debug/ExCSS.Unity.dll
+/Users/federicodiveroli/DriveIn_SampleProject/Temp/bin/Debug/Unity.DataContract.dll
+/Users/federicodiveroli/DriveIn_SampleProject/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+/Users/federicodiveroli/DriveIn_SampleProject/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/federicodiveroli/DriveIn_SampleProject/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/federicodiveroli/DriveIn_SampleProject/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/federicodiveroli/DriveIn_SampleProject/Temp/bin/Debug/Unity.Cecil.Pdb.dll
+/Users/federicodiveroli/DriveIn_SampleProject/Temp/bin/Debug/Unity.Cecil.Mdb.dll
+/Users/federicodiveroli/DriveIn_SampleProject copia/Temp/bin/Debug/UnityEngine.dll
+/Users/federicodiveroli/DriveIn_SampleProject copia/Temp/bin/Debug/UnityEditor.dll
+/Users/federicodiveroli/DriveIn_SampleProject copia/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/federicodiveroli/DriveIn_SampleProject copia/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/federicodiveroli/DriveIn_SampleProject copia/Temp/bin/Debug/UnityEngine.TestRunner.dll
+/Users/federicodiveroli/DriveIn_SampleProject copia/Temp/bin/Debug/nunit.framework.dll
+/Users/federicodiveroli/DriveIn_SampleProject copia/Temp/bin/Debug/UnityEngine.Timeline.dll
+/Users/federicodiveroli/DriveIn_SampleProject copia/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/federicodiveroli/DriveIn_SampleProject copia/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/federicodiveroli/DriveIn_SampleProject copia/Temp/bin/Debug/Mono.Cecil.dll
+/Users/federicodiveroli/DriveIn_SampleProject copia/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/federicodiveroli/DriveIn_SampleProject copia/Temp/bin/Debug/Unity.DataContract.dll
+/Users/federicodiveroli/DriveIn_SampleProject copia/Temp/bin/Debug/ExCSS.Unity.dll
+/Users/federicodiveroli/DriveIn_SampleProject copia/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+/Users/federicodiveroli/DriveIn_SampleProject copia/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/federicodiveroli/DriveIn_SampleProject copia/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/federicodiveroli/DriveIn_SampleProject copia/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/federicodiveroli/DriveIn_SampleProject copia/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/federicodiveroli/DriveIn_SampleProject copia/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/federicodiveroli/DriveIn_SampleProject copia/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/federicodiveroli/DriveIn_SampleProject copia/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/federicodiveroli/DriveIn_SampleProject copia/obj/Debug/Assembly-CSharp.dll
+/Users/federicodiveroli/DriveIn_SampleProject copia/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/federicodiveroli/DriveIn_SampleProject copia/Temp/bin/Debug/UnityEngine.UIAutomation.dll
+/Users/federicodiveroli/DriveIn_SampleProject copia/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll
+/Users/federicodiveroli/DriveIn_SampleProject copia/Temp/bin/Debug/UnityEngine.SpatialTracking.dll
+/Users/federicodiveroli/DriveIn_SampleProject copia/Temp/bin/Debug/UnityEngine.Purchasing.dll
+/Users/federicodiveroli/DriveIn_SampleProject copia/Temp/bin/Debug/Unity.Cecil.dll
+/Users/federicodiveroli/DriveIn_SampleProject copia/Temp/bin/Debug/Unity.Cecil.Pdb.dll
+/Users/federicodiveroli/DriveIn_SampleProject copia/Temp/bin/Debug/Unity.Cecil.Mdb.dll
