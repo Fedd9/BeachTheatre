@@ -29,6 +29,8 @@ public class FPSController : MonoBehaviour {
 		moveForward = Input.GetAxis ("Vertical") * speed;
 		moveRight = Input.GetAxis ("Horizontal") * speed;
 
+
+
 		rotX = Input.GetAxis ("Mouse X") * sensitivity;
 		rotY -= Input.GetAxis ("Mouse Y") * sensitivity;
 		rotY = Mathf.Clamp (rotY, -60f, 60f);

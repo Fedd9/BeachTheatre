@@ -17,6 +17,8 @@ public class FPSController : MonoBehaviour {
 	private float rotX;
 	private float rotY;
 
+	Vector3 t;
+
 	// Use this for initialization
 	void Start () {
 		Cursor.visible = false;
@@ -28,6 +30,8 @@ public class FPSController : MonoBehaviour {
 		
 		moveForward = Input.GetAxis ("Vertical") * speed;
 		moveRight = Input.GetAxis ("Horizontal") * speed;
+
+
 
 		rotX = Input.GetAxis ("Mouse X") * sensitivity;
 		rotY -= Input.GetAxis ("Mouse Y") * sensitivity;

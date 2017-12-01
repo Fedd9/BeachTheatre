@@ -5,11 +5,19 @@ using UnityEngine.Video;
 using UnityEngine.UI;
 
 public class VideoPlayerController : MonoBehaviour {
+
+
 	private VideoPlayer videoPlayer;
 	public Text currentMinutes;
 	public Text currentSeconds;
 	public Text totalMinutes;
 	public Text totalSeconds;
+
+	public Material playButton;
+	public Material pauseButton;
+	public Renderer playRenderer;
+
+	public headMover playHead;
 
 	void Awake(){
 		videoPlayer = GetComponent<VideoPlayer> ();
@@ -24,6 +32,7 @@ public class VideoPlayerController : MonoBehaviour {
 	void Update () {
 		if (videoPlayer.isPlaying) {
 			setCurrentTimeUI();
+			playHead.MovePlayHead(CalculatePlayedFraction ());
 		}
 		
 	}
@@ -31,8 +40,10 @@ public class VideoPlayerController : MonoBehaviour {
 	public void PlayPause(){
 		if (videoPlayer.isPlaying) {
 			videoPlayer.Pause ();
+			playRenderer.material = playButton;
 		} else {
 			videoPlayer.Play();
+			playRenderer.material = pauseButton;
 		}
 	}
 
@@ -50,5 +61,10 @@ public class VideoPlayerController : MonoBehaviour {
 
 		totalMinutes.text = min;
 		totalSeconds.text = sec;
+	}
+
+	double CalculatePlayedFraction(){
+		double fraction = (double)videoPlayer.frame / (double)videoPlayer.clip.frameCount;
+		return fraction;
 	}
 }

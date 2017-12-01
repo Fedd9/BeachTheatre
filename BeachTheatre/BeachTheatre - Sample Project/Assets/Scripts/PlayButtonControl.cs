@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class PlayButtonControl : ShootableUI {
 
+
+
 	public override void shotClick ()
 	{
 		videoPlayerController.PlayPause ();
