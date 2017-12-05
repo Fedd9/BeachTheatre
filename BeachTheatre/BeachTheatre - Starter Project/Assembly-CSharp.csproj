@@ -52,7 +52,6 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\FPSController.cs" />
-     <Compile Include="Assets\Scripts\PlayerRayCasting.cs" />
      <None Include="Assets\Scripts\TextureInsideUnlitColor.shader" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
