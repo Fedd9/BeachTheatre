@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Simple_Video.unity
+- path: Assets/Scenes/BeachTheatre.unity
   isLoaded: 1
   isActive: 1
